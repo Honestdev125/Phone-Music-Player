@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎵 Mobile Music Player</h1>
   <p>Modern, mobile-first music player with smooth animations and responsive design 📱</p>
-  <a href="https://hamiparsa.github.io/Phone-Music-Player/">
+  <a href="https://honestdev125.github.io/Phone-Music-Player/">
     <img src="https://img.shields.io/badge/View_Live_Project-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
@@ -65,7 +65,7 @@ Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CS
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Passionate about mobile-friendly interactive UI  
 
 ---
